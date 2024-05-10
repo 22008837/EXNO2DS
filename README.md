@@ -1,11 +1,11 @@
 # EX.NO: 2 DS
-# AIM:
+## AIM:
 To perform Exploratory Data Analysis on the given data set.
       
-# EXPLANATION:
+## EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
-# ALGORITHM:
+## ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
 
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
@@ -133,5 +133,5 @@ sns.pairplot(df)
 ![image](https://github.com/22008837/EXNO2DS/assets/120194155/66fdadf5-ee96-43da-8b08-2ceb7ccadb9c)
 
 
-# RESULT
+## RESULT
 Thus, the outputs verifies that the data set has been applied the EDA process and methods.
